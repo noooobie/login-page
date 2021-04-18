@@ -1,6 +1,6 @@
-# morro_app
+# Login Page
 
-A new Flutter application.
+This is jusr a login page with no functionality.This repo will give you an idea on widgets,cards,fonts and many more applications which would help the beginners to start with their apps
 
 ## Getting Started
 
